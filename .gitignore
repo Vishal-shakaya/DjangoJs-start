@@ -22,7 +22,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-
+/frontend/gui
 ###Python###
 
 # Byte-compiled / optimized / DLL files
@@ -137,3 +137,4 @@ venv.bak/
 *.pot
 *.pyc
 local_settings.py
+
